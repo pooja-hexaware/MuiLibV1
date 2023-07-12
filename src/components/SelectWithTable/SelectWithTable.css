@@ -1,0 +1,35 @@
+/* DropDown Table Select */
+
+.dropDownTableSelect-input .MuiInputBase-root {
+    padding-right: 0;
+  }
+  
+  .dropDownTableSelect-input .MuiButtonBase-root {  
+    border-radius: 0em;
+  }
+  
+  .dropDownTableSelect-input .MuiButtonBase-root:hover {
+    text-decoration: none;
+  }
+  
+  .dropDownTableSelect-input {
+    margin: 0.5rem 0 1.5rem 0 !important;
+  }
+  
+  .dropDownTableSelect-table {  
+    border-radius: 0;
+    z-index: 99999;  
+  }
+  
+  .dropDownTableSelect .MuiPaper-root {
+    margin: 0 !important;
+  }
+  
+  .dropdowntableselect-container .MuiButton-label{
+    background-color: #ffffff;
+  }
+  
+  .dropdowntableselect-container .MuiInputAdornment-root {
+    position: absolute;
+    right: 0.125em;
+  }
